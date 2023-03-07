@@ -1,0 +1,11 @@
+﻿  App.cpp
+  Colectie.cpp
+D:\Laboratoare\ANUL 1\Semestrul 2\SDA(an 1 sem 2)\L1(prob 8)\App\App\Colectie.h(1,13): warning C4081: expected 'newline'; found ';'
+  IteratorColectie.cpp
+D:\Laboratoare\ANUL 1\Semestrul 2\SDA(an 1 sem 2)\L1(prob 8)\App\App\Colectie.h(1,13): warning C4081: expected 'newline'; found ';'
+  TestExtins.cpp
+D:\Laboratoare\ANUL 1\Semestrul 2\SDA(an 1 sem 2)\L1(prob 8)\App\App\Colectie.h(1,13): warning C4081: expected 'newline'; found ';'
+  TestScurt.cpp
+D:\Laboratoare\ANUL 1\Semestrul 2\SDA(an 1 sem 2)\L1(prob 8)\App\App\Colectie.h(1,13): warning C4081: expected 'newline'; found ';'
+  Generating Code...
+  App.vcxproj -> D:\Laboratoare\ANUL 1\Semestrul 2\SDA(an 1 sem 2)\L1(prob 8)\App\x64\Debug\App.exe

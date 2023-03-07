@@ -1,0 +1,12 @@
+﻿  App.cpp
+  DO.cpp
+  Iterator.cpp
+  TestExtins.cpp
+D:\an1_sem2\SDA\LABORATOARE\LABORATOR_01\rezolvare\TestExtins.cpp(84,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\an1_sem2\SDA\LABORATOARE\LABORATOR_01\rezolvare\TestExtins.cpp(94,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\an1_sem2\SDA\LABORATOARE\LABORATOR_01\rezolvare\TestExtins.cpp(102,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\an1_sem2\SDA\LABORATOARE\LABORATOR_01\rezolvare\TestExtins.cpp(110,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\an1_sem2\SDA\LABORATOARE\LABORATOR_01\rezolvare\TestExtins.cpp(212,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TestScurt.cpp
+  Generating Code...
+  rezolvare.vcxproj -> D:\an1_sem2\SDA\LABORATOARE\LABORATOR_01\rezolvare\x64\Debug\rezolvare.exe
